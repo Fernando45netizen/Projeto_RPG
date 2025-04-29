@@ -12,6 +12,7 @@ public class Classes {
     private int arma;
     
 
+
     public String getNomeDaClasse() {
         return nomeDaClasse;
     }
@@ -77,11 +78,11 @@ public class Classes {
     }
 
     public String getPassivas(){
-        return "" ;
+        return "Insira as passivas: " ;
 }
 
     public String getHabilidades(){
-        return "" ;
+        return "Insira as habilidades: " ;
 
 
     }

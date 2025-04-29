@@ -1,6 +1,8 @@
 package Classes;
 public class Indigena extends Classes {
+
     
+
     @Override
     
     public String getPassivas() {
